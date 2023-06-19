@@ -1,0 +1,12 @@
+{
+    // Disable automatic suggestions
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    // Disable hints
+    "editor.parameterHints.enabled": false,
+    // Disable debugging  breakpoints
+    "debug.allowBreakpointsEverywhere": false,
+}
